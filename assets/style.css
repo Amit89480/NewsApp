@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(162, 62, 62);
+}
+
+.img {
+    position: absolute;
+    z-index: -1;
+    opacity: 0.8;
+    height: 100%;
+    width: 100%;
+}
